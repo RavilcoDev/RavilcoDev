@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rafael Livise, web developer, focused on Front End currently using React.js, with a deep interest in Blockchain technology and I learing Solidity . Solving problems, detail-oriented, creative, communications skills. Experience of creating and implementing successful front and back end web applications. 
+I am Rafael Livise, web developer, focused on Front End currently using React.js and Vue.js, I program in Python, Java and JavaScript. I have a deep interest in Blockchain technology and I learing Solidity . Solving problems, detail-oriented, creative, communications skills. Experience of creating and implementing successful front and back end web applications. 
 
 - 🔭 I’m currently working like freelance.
 - 🌱 I’m currently learning Solidity and ethereum concepts.
